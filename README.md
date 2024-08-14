@@ -54,22 +54,12 @@
   
   ![image](https://github.com/user-attachments/assets/07a930bf-a391-41d8-ab15-f303b550979d)
 
-- Step 12 : Create all the charts to Analyse 'Sales Trends Over Time' as shown in the figure below.
+- Step 12 : Creating a pivot table and pivot chart to analyse sales in different months.
+  
+  ![image](https://github.com/user-attachments/assets/5d278769-c509-40e4-bfd0-9fb57720994b)
+
+- Step 13 : Create a final Sales Dashboard that offers a comprehensive 360-degree view of total sales, including insights into how sales are occurring across different dimensions such as states, gender, sizes, channels, categories and months. It should also include the total sales value, and delivery status. 
 
   ![image](https://github.com/user-attachments/assets/489302ed-5525-4f61-8dcc-5e93424b912b)
-
-- Step 11 : Create all the charts to Analyse 'Product & Brand Statistics' as shown in the figure below.
-
-  ![image](https://github.com/user-attachments/assets/d0af9ce9-25aa-4926-93b1-8008ae919c30)
-
-- Step 12 : Create all the charts to Analyse 'Geographical Sales' as shown in the figure below.
-
-  ![image](https://github.com/user-attachments/assets/8a8bdb07-acc4-4d13-96fa-1db0ff093feb)
-
-
-- Step 13 : Create a final Sales Dashboard that offers a comprehensive 360-degree view of total sales, including insights into how sales are occurring across different dimensions such as states, gender, sizes, channels, categories and months. It should also include the 
-total sales value, and delivery status. 
-
-  ![image](https://github.com/user-attachments/assets/15d06d10-4523-405a-958b-4ccba56cc7e9)
 
 - Step 14 : Finally, make a report from all the charts to share with the client. 
