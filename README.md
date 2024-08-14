@@ -11,7 +11,8 @@
 
 - Step 1 : Load the CSV files into Excel, and open the files into POWER QUERY EDITOR to clean the data. 
 
-- Step 2 : Adding one conditional column, 'age status' from age column. 
+- Step 2 : Adding one conditional column, 'age status' from age column.
+- 
   ![image](https://github.com/user-attachments/assets/9915560b-6f3c-46d5-8735-acbcbdc44ad3)
 
 - Step 3 : Extracting a column 'month name' from date column, then click CLOSE & LOAD to load the cleaned data. 
